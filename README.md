@@ -1,19 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px"> I'm Aanchal Raj</h1>  
 <h2 align="center"><img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="40px">  Building things from scratch that work.. Eventually !</h2>  </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aanchal-raj/)](https://www.linkedin.com/in/aanchal-raj-4838a4204)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/AanchalRaj12)](https://twitter.com/AanchalRaj12?s=08)
+:mailbox: Reach me out!
 
-- 🌱 I’m currently working with **javascript** 
+[![Twitter Badge](https://img.shields.io/badge/-@AanchalRaj12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AanchalRaj12?s=08)](https://twitter.com/AanchalRaj12?s=08) [![Linkedin Badge](https://img.shields.io/badge/-Aanchal Raj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-raj-4838a4204) [![Mail Badge](https://img.shields.io/badge/-@aanchal_raj_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/aanchal_raj_) [![Mail Badge](https://img.shields.io/badge/-Aanchal Raj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anchalraj0811@gmail.com)
+
+-🌞 I’m currently working with **javascript** 
 
 - 💬 Ask me questions about **CSS | JS | React**  
 
  ## ⚡ Technologies  
  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,4 +21,6 @@
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aanchalraj08&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aanchalraj08)
