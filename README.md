@@ -21,7 +21,4 @@
 ![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aanchalraj08&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
-  
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aanchalraj08)
+ 
